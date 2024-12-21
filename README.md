@@ -43,6 +43,3 @@ Implemented various models to predict fraudulent transactions:
 
 ## Visualization: Tableau
 https://public.tableau.com/views/FraudAnalysis_17346286812220/Dashboard13?:language=en-GB&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
-
-Statistical Tests: Scipy, Statsmodels
-
