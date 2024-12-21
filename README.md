@@ -22,12 +22,12 @@ Performed the following statistical tests to analyze transaction patterns and fr
 
 ### Machine Learning Models
 Implemented various models to predict fraudulent transactions:
-- Logistic Regression
-- Decision Tree Classifier
-- Linear Discriminant Analysis
-- Gaussian Naïve Bayes
-- Support Vector Machine
-- K-Nearest Neighbors Classifier
+- **Logistic Regression**
+- **Decision Tree Classifier**
+- **Linear Discriminant Analysis**
+- **Gaussian Naïve Bayes**
+- **Support Vector Machine**
+- **K-Nearest Neighbors Classifier**
 
 #### Handling Imbalanced Data
 - **Under-sampling**: Applied to balance the dataset and improve model performance.
